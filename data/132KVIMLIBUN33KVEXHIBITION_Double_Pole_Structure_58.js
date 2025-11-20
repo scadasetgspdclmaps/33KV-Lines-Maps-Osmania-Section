@@ -1,0 +1,1 @@
+var json_132KVIMLIBUN33KVEXHIBITION_Double_Pole_Structure_58 = {"type":"FeatureCollection","name":"132KVIMLIBUN33KVEXHIBITION_Double_Pole_Structure_58","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
